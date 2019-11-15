@@ -20,7 +20,7 @@ Questions and suggestions may be sent to
 Installing
 ----------
 Ideally, you should be able to just type:
-
+    yum install autoconf
     ./configure
     make
     make install
