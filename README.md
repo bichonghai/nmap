@@ -19,10 +19,10 @@ Questions and suggestions may be sent to
 
 Installing
 ----------
-Ideally, you should be able to just type:
-    yum install autoconf
-    ./configure
-    make
+Ideally, you should be able to just type:  
+    yum install autoconf  
+    ./configure  
+    make  
     make install
 
 For far more in-depth compilation, installation, and removal notes, read the
